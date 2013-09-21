@@ -1,0 +1,3 @@
+A platform for facilitating democratic organizing, mutual aid, and the creation of new horizontal possibilities. Everything should be distributed, with no personal hierarchies and no single points of failure. Everything should be structured so as to encourage play and creativity, to develop the most dynamic and diversifying democracy we can find.
+
+As it is impossible for all people to do all things, sortition is at the heart of democratic practice. Given this, the first priority of this project will be to implement a transparently non-biasable random number generator to be used for allocating tasks among network participants. This also provides an opportunity to develop infrastructure that will be useful for other services as they are implemented.
